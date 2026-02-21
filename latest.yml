@@ -1,4 +1,4 @@
-version: 6.0.4
+version: 6.0.5
 files:
   - url: https://github.com/Gagouyonu/GST/releases/download/win-unpacked/distill-setup.exe
     sha512: WQgn9VNueQXnScsbaJQ930q8bEUMBZnL+0et/PRZwFeDdaUBIa7uRNZyT16vBfvTDEdJ8xERUhVKpy0S8DePFg==
